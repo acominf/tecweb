@@ -45,3 +45,7 @@ Página de proyectos de la materia de Tecnologías Web
 <td>Fernando Alvarez Flores<br>Dulce Nataly Guadarrama Mani</td></tr>
 </tbody>
 </table>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLuWBWl9RdIGS1G9RMCJ-adR-dRl-hY9EL" frameborder="0" allowfullscreen></iframe>
+
+
